@@ -17,9 +17,9 @@ _____________________________________
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
 __________________________________________________________
-- 💻 I’m currently working for [Farmitoo](https://www.farmitoo.com/fr/) using PHP
+- 💻 I’m currently working for [SII](https://sii-group.com/fr-FR) as a fullstack developer
 
-- 🌱 I’m also learning **Javascript, React, Kotlin...**
+- 🌱 I’m also learning **Javascript, React, Angular...**
 
 - Hobbies: **Japan 🗾, food 🍜, sport 🚣‍♀️, reading 📚, crafting 🪡, cats 🐈**
 
